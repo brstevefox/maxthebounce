@@ -1,0 +1,76 @@
+.container {
+	z-index:4;
+	width:940px;
+	left:10%;
+	right:10%;
+	min-height:600px;
+	height:1300px;
+	position:absolute;
+	background-color: #7DA71C;
+	-moz-box-shadow: 2px 2px 2px #4F6D09;
+	-webkit-box-shadow: 2px 2px 2px #4F6D09;
+	box-shadow: 2px 2px 2px #4F6D09;
+}
+
+.navbar {
+	width:940px;
+	z-index:5;
+	top:250px;
+	position:absolute;
+
+
+
+
+}
+
+#myCarousel {
+	width:500px;
+	min-width:400px; 
+	height:400px;
+	min-height:300px;
+	top:312px;
+	right:2%;
+	float:right;
+
+}
+
+.navbar-inner {
+	background-color:#FF1E00;
+}
+
+.bdyText1 {
+   
+   	width:900px;
+   	height:800px;
+   	left:2%;
+   	top:312px;	
+	position:absolute;
+
+
+}
+
+.bdyText {
+
+	width:400px;
+   	height:500px;
+   	left:2%;
+   	top:312px;	
+   	float:left;
+	position:absolute;
+
+}
+
+.banner {
+
+	position:absolute;
+}
+
+.footer {
+
+	position:absolute;
+	width:940px;
+	height:40px;
+	bottom:0px;
+	background-color:#4F6D09;
+	text-align:center;
+}
